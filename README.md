@@ -1,12 +1,16 @@
-#GTA6 Landing Page 🚗💥
+## __GTA6 Landing Page 🚗💥__
+
 A visually rich, animated landing page inspired by GTA 6, built with React.js, Tailwind CSS, and GSAP. This project recreates Rockstar’s iconic GTA 6 aesthetic with cinematic animations, responsive layouts, and dynamic visuals with a selfie effect.
 It is looking like a girl is standing & just gonna take a selfie.
 
-#🚀 Live Preview
+
+### __🚀 Live Preview__
 (https://gta-6-steel.vercel.app/)
 
 
-#✨ Features
+
+### __✨ Features__
+
 Smooth character and background entrance animations powered by GSAP
 
 Scroll-triggered effects and timeline-based transitions
@@ -19,7 +23,10 @@ GTA-style fonts, colors, and UI mimicry
 
 Organized, reusable React components
 
-#🛠️ Tech Stack
+
+
+### __🛠️ Tech Stack__
+
 React – Component-based UI
 
 Tailwind CSS – Utility-first styling for rapid design
