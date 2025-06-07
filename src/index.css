@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: "pricedown";
+    src: url("./pricedown.otf");
+}
+
+@font-face{ 
+    font-family: "metro";
+    src:url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Metrophobic&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+    font-family: "pricedown";
+}
+
+.leonida{
+    font-family: Helvetica, sans-serif;
+    font-weight: 750;
+}
+
+.prgtag{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
