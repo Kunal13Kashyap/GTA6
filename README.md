@@ -1,7 +1,7 @@
 ## __GTA6 Landing Page 🚗💥__
 
 A visually rich, animated landing page inspired by GTA 6, built with React.js, Tailwind CSS, and GSAP. This project recreates Rockstar’s iconic GTA 6 aesthetic with cinematic animations, responsive layouts, and dynamic visuals with a selfie effect.
-It is looking like a girl is standing & just gonna take a selfie.
+It is looking like a girl is standing & just gonna take a selfie if you move your cursor.
 
 
 ### __🚀 Live Preview__
