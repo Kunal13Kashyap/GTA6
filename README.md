@@ -1,12 +1,25 @@
-# React + Vite
+GTA6 Landing Page 🚗💥
+A visually rich, animated landing page inspired by GTA 6, built with React.js, Tailwind CSS, and GSAP. This project recreates Rockstar’s iconic GTA 6 aesthetic with cinematic animations, responsive layouts, and dynamic visuals with a selfie effect.
+It is looking like a girl is standing & just gonna take a selfie.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Features
+Smooth character and background entrance animations powered by GSAP
 
-Currently, two official plugins are available:
+Scroll-triggered effects and timeline-based transitions
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Layered images and text for a cinematic, immersive experience
 
-## Expanding the ESLint configuration
+Responsive design using Tailwind CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+GTA-style fonts, colors, and UI mimicry
+
+Organized, reusable React components
+
+🛠️ Tech Stack
+React – Component-based UI
+
+Tailwind CSS – Utility-first styling for rapid design
+
+GSAP – High-performance JavaScript animations
+
+Vite – Fast build tool for modern frontends
