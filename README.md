@@ -1,36 +1,41 @@
-## __GTA6 Landing Page 🚗💥__
+# GTA6 Landing Page 🚗💥
 
-A visually rich, animated landing page inspired by GTA 6, built with React.js, Tailwind CSS, and GSAP. This project recreates Rockstar’s iconic GTA 6 aesthetic with cinematic animations, responsive layouts, and dynamic visuals with a selfie effect.
-It is looking like a girl is standing & just gonna take a selfie if you move your cursor.
+A visually rich, animated landing page inspired by **GTA VI**, built with **React.js**, **Tailwind CSS**, and **GSAP**. This project recreates Rockstar’s iconic GTA aesthetic with **cinematic animations**, **responsive layouts**, and a unique **“selfie” effect** — it appears as if a girl is standing and about to take a selfie when you move your cursor.
 
+---
 
-### __🚀 Live Preview__
-(https://gta-6-steel.vercel.app/)
+## 🚀 Live Preview
 
+🔗 [https://gta-6-steel.vercel.app/](https://gta-6-steel.vercel.app/)
 
+---
 
-### __✨ Features__
+## ✨ Features
 
-Smooth character and background entrance animations powered by GSAP
+- 🎞️ Smooth character and background entrance animations powered by **GSAP**
+- 📜 Scroll-triggered effects and timeline-based transitions
+- 🖼️ Layered images and text for a cinematic, immersive experience
+- 📱 Fully responsive design using **Tailwind CSS**
+- 🎮 GTA-style fonts, colors, and UI mimicry
+- ⚛️ Organized, reusable **React components**
 
-Scroll-triggered effects and timeline-based transitions
+---
 
-Layered images and text for a cinematic, immersive experience
+## 🛠️ Tech Stack
 
-Responsive design using Tailwind CSS
+| Tech         | Description                                      |
+|--------------|--------------------------------------------------|
+| React        | Component-based UI architecture                  |
+| Tailwind CSS | Utility-first styling for rapid modern design    |
+| GSAP         | High-performance JavaScript animation library    |
+| Vite         | Lightning-fast build tool for modern frontend    |
 
-GTA-style fonts, colors, and UI mimicry
+---
 
-Organized, reusable React components
+## 🧠 How to Run Locally
 
-
-
-### __🛠️ Tech Stack__
-
-React – Component-based UI
-
-Tailwind CSS – Utility-first styling for rapid design
-
-GSAP – High-performance JavaScript animations
-
-Vite – Fast build tool for modern frontends
+```bash
+git clone https://github.com/yourusername/gta6-landing-page.git
+cd gta6-landing-page
+npm install
+npm run dev
